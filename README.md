@@ -1,5 +1,5 @@
 This is an extremely simple example C++ application which uses CMake. 
-It will build and install an application called CMakeHelloWorld which simply outputs "Hello, world!" to stdout.  
+It will build and install an application called CMakeHelloWorld which simply outputs "Hello, world!" to stdout.   
 
 ### Installation ###
 As this is an example of how to use CMake you'll need to download it (http://www.cmake.org/cmake/resources/software.html) or install it via:
